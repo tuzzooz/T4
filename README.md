@@ -56,7 +56,7 @@ git clone https://github.com/tuzzooz/T4.git
 
 
 2.  **Acesse o diretório do projeto:**
-cd T3
+cd T4
 
 
 ### 2. Instale as dependências do frontend: cd petlovers-frontend
