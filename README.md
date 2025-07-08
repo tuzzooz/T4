@@ -6,17 +6,17 @@ Este projeto é composto por dois módulos principais: um **frontend** desenvolv
 
 ## Estrutura do Repositório
 
-/
-├── executavel/
-│   └── pl.jar
-├── petlovers-frontend/
-│   ├── public/
-│   ├── src/
-│   ├── package.json
-│   ├── tsconfig.json
-│   └── ...
-├── README.md
-└── ...
++ /
++ ├── executavel/
++ │   └── pl.jar
++ ├── petlovers-frontend/
++ │   ├── public/
++ │   ├── src/
++ │   ├── package.json
++ │   ├── tsconfig.json
++ │   └── ...
++ ├── README.md
++ └── ...
 
 ## Dependências para o projeto
 
